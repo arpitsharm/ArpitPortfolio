@@ -36,7 +36,6 @@ h1 {
 
 .part a {
     display: inline-block;
-    font-size: 1.2rem;
     font-weight: bold;
     text-decoration: none;
     color: #ffffff;
@@ -52,15 +51,4 @@ h1 {
 
 .part a:active {
     transform: translateY(0); 
-}
-
-.box1,
-.box2{
-    width: 300px;
-    height: 300px;
-    background-color: white;
-}
-
-.box2 {
-    background-color: darkgreen;
 }
