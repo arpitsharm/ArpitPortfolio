@@ -17,21 +17,3 @@ tl.from(".part",
         dealy: 1,
     }
 )
-
-tl.to(".box1", 
-    {
-        x : 1000, 
-        scale: 0,
-        duration : 1,
-        dealy: 1,
-    }
-)
-
-tl.to(".box2", 
-    {
-        x : 1000, 
-        scale: 0,
-        duration : 1,
-        dealy: 1,
-    }
-)
