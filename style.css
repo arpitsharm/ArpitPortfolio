@@ -12,8 +12,8 @@ body {
 }
 
 body {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .nav{
@@ -38,10 +38,9 @@ h1 {
     display: inline-block;
     font-weight: bold;
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
     padding: 10px 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
     transition: transform 0.2s, background-color 0.2s;
 }
 
@@ -52,3 +51,4 @@ h1 {
 .part a:active {
     transform: translateY(0); 
 }
+
